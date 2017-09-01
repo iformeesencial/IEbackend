@@ -89,7 +89,7 @@
         </ul>
         </li>
 
-        <li><a href="#">Blog</a></li>
+        <li><a href="https://informeesencial.wordpress.com/">Blog</a></li>
 
         <li><a href="#">Configuraciones</a>
           <ul>
